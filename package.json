@@ -1,0 +1,22 @@
+{
+  "name": "learn-react-family",
+  "version": "1.0.0",
+  "description": "学习React全家桶，从零搭建框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hubl95/learn-react-family.git"
+  },
+  "author": "BlankHu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hubl95/learn-react-family/issues"
+  },
+  "homepage": "https://github.com/hubl95/learn-react-family#readme",
+  "devDependencies": {
+    "webpack": "^4.39.1"
+  }
+}
