@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/hubl95/learn-react-family#readme",
   "devDependencies": {
-    "webpack": "^4.39.1"
+    "webpack": "^5.75.0"
   }
 }
